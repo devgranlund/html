@@ -23,7 +23,7 @@ T. Granlund, T. Mikkonen and V. Stirbu, "On Medical Device Software CE Complianc
 Granlund, Tuomas & Poranen, Timo & Zhang, Zheying. (2018). Implementing a Medical Device Software Risk Management Process by ISO 14971 in compliance with Agile Principles. 
 
 ## Whitepaper
-https://hub.solita.fi/foundations-of-medical-device-software-cybersecurity-compliance
+[Foundations of medical device software cybersecurity compliance](https://hub.solita.fi/foundations-of-medical-device-software-cybersecurity-compliance)
 
 ## Blog posts
 [MDR era finally started – now is the time to work even harder for compliance](https://www.solita.fi/en/blogs/mdr-era-finally-started/)
