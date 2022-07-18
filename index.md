@@ -21,3 +21,15 @@ T. Granlund, J. Vedenpää, V. Stirbu and T. Mikkonen, "On Medical Device Cybers
 T. Granlund, T. Mikkonen and V. Stirbu, "On Medical Device Software CE Compliance and Conformity Assessment," 2020 IEEE International Conference on Software Architecture Companion (ICSA-C), 2020, pp. 185-191, doi: 10.1109/ICSA-C50368.2020.00040.
 
 Granlund, Tuomas & Poranen, Timo & Zhang, Zheying. (2018). Implementing a Medical Device Software Risk Management Process by ISO 14971 in compliance with Agile Principles. 
+
+## Whitepaper
+https://hub.solita.fi/foundations-of-medical-device-software-cybersecurity-compliance
+
+## Blog posts
+[MDR era finally started – now is the time to work even harder for compliance](https://www.solita.fi/en/blogs/mdr-era-finally-started/)
+
+[Cybersecurity in medical devices – new challenges ahead](https://www.solita.fi/en/blogs/cybersecurity-in-medical-devices-new-challenges-ahead/)
+
+[RegOps – diving into the dilemma of agile software development in regulated industry](https://www.solita.fi/en/blogs/regops-diving-into-the-dilemma-of-agile-software-development-in-regulated-industry/)
+
+[Is it possible to develop medical software with agile methods – is RegOps the next step?](https://www.solita.fi/en/blogs/is-it-possible-to-develop-software-with-agile-methods/)
