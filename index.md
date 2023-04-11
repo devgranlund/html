@@ -5,6 +5,8 @@
 Sorry, for friends only
 
 ## Publications
+Stirbu, V., Granlund, T. & Mikkonen, T. Continuous design control for machine learning in certified medical systems. Software Quality Journal (2022). https://doi.org/10.1007/s11219-022-09601-5
+
 T. Granlund, V. Stirbu and T. Mikkonen, "Medical Software Needs Calm Compliance" in IEEE Software, vol. 39, no. 01, pp. 19-28, 2022.
 doi: 10.1109/MS.2021.3117292
 
