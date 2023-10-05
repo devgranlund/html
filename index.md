@@ -5,6 +5,8 @@
 Sorry, for friends only
 
 ## Publications
+Jaakko Lähteenmäki (Editor), Pasi Ahola, Andrei Baraian, Klaus Förger, Tuomas Granlund, Jani Hopia, Risto Kaikkonen, Tommi Mikkonen, Timo Niemirepo, Juha Pajula, Jari Partanen, Timo Pellinen, Vlad Stirbu, Mika Torhola "Agile and Holistic Medical Software Development: Final report of AHMED project" (2023). https://cris.vtt.fi/files/75730211/AHMED_final_report.pdf
+
 Stirbu, V., Granlund, T. & Mikkonen, T. Continuous design control for machine learning in certified medical systems. Software Quality Journal (2022). https://doi.org/10.1007/s11219-022-09601-5
 
 T. Granlund, V. Stirbu and T. Mikkonen, "Medical Software Needs Calm Compliance" in IEEE Software, vol. 39, no. 01, pp. 19-28, 2022.
