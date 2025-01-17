@@ -5,6 +5,10 @@
 Sorry, for friends only
 
 ## Publications
+A. Linjama and T. Granlund, "Adopting Continuous Deployment in a Public Administration Project: An Industrial Case Study", in Product-Focused Software Process Improvement. Industry-, Workshop-, and Doctoral Symposium Papers. PROFES 2024. Lecture Notes in Computer Science, vol 15453. Springer, Cham. https://doi.org/10.1007/978-3-031-78392-0_6
+
+T. Granlund, V. Stirbu and T. Mikkonen, "Toward a Regulatory-Compliant Lifecycle for Artificial-Intelligence-Based Medical Devices in the European Union: Industry Perspectives," in Computer, vol. 57, no. 9, pp. 24-34, Sept. 2024, doi: 10.1109/MC.2024.3414368.
+
 Jaakko Lähteenmäki (Editor), Pasi Ahola, Andrei Baraian, Klaus Förger, Tuomas Granlund, Jani Hopia, Risto Kaikkonen, Tommi Mikkonen, Timo Niemirepo, Juha Pajula, Jari Partanen, Timo Pellinen, Vlad Stirbu, Mika Torhola. "Agile and Holistic Medical Software Development: Final report of AHMED project" (2023). https://cris.vtt.fi/files/75730211/AHMED_final_report.pdf
 
 Stirbu, V., Granlund, T. & Mikkonen, T. Continuous design control for machine learning in certified medical systems. Software Quality Journal (2022). https://doi.org/10.1007/s11219-022-09601-5
